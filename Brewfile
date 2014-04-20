@@ -18,7 +18,6 @@ install mecab-ipadic
 install brew-cask
 
 cask install virtualbox
-cask install quicksilver
 cask install vagrant
 cask install dropbox
 cask install firefox
