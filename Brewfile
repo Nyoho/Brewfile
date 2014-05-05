@@ -17,6 +17,7 @@ install mecab-ipadic
 
 install brew-cask
 
+cask install keyremap4macbook
 cask install virtualbox
 cask install vagrant
 cask install dropbox
