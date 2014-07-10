@@ -10,10 +10,17 @@ install tmux
 install w3m wget cmigemo binutils coreutils findutils lv ag z gnupg stunnel hub class-dump xz
 install scons ntl
 install ffmpeg
+install timidity
 
 install mecab
 link mecab
 install mecab-ipadic
+
+tap peco/peco
+install peco
+
+tap sanemat/font
+install ricty
 
 install brew-cask
 
