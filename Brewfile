@@ -6,7 +6,7 @@ tap homebrew/binary || true
 
 install zsh
 install git
-install tmux
+install tmux reattach-to-user-namespace
 install w3m wget cmigemo binutils coreutils findutils lv ag z gnupg stunnel hub class-dump xz
 install scons ntl
 install ffmpeg
