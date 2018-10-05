@@ -17,6 +17,10 @@ brew install ansible
 brew install cmake
 brew cask install extrabuildphase
 
+# For Scala
+brew cask install java intellij-idea-ce
+brew install sbt
+
 # multimedia
 brew install povray
 brew install imagemagick
