@@ -39,7 +39,6 @@ brew install ricty
 
 brew install brew-cask
 
-# brew cask install keyremap4macbook
 brew cask install karabiner
 brew cask install virtualbox
 brew cask install vagrant
