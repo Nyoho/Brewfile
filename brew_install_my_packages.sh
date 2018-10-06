@@ -34,8 +34,12 @@ brew install mecab-ipadic
 brew tap peco/peco
 brew install peco
 
+# font
 brew tap sanemat/font
 brew install ricty
+
+# archiving
+brew p7zip
 
 brew install brew-cask
 
