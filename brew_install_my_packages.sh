@@ -43,6 +43,8 @@ brew p7zip
 
 brew install brew-cask
 
+brew tap buo/cask-upgrade # Just do `brew cu` to upgrade cask apps.
+
 brew cask install karabiner
 brew cask install virtualbox
 brew cask install vagrant
