@@ -57,5 +57,6 @@ brew cask install skitch
 brew cask install vlc
 brew cask install mactex
 brew cask install sage
+brew cask install keycastr
 
 brew cleanup
