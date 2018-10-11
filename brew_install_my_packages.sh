@@ -59,4 +59,7 @@ brew cask install mactex
 brew cask install sage
 brew cask install keycastr
 
+brew tap jesseduffield/lazygit
+brew install lazygit
+
 brew cleanup
