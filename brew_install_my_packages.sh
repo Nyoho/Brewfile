@@ -38,6 +38,11 @@ brew install peco
 brew tap sanemat/font
 brew install ricty
 
+# For command lines
+
+# https://github.com/lotabout/skim Fuzzy Finder in rust
+brew install sk
+
 # archiving
 brew p7zip
 
