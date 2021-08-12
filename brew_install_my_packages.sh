@@ -5,10 +5,10 @@ brew tap phinze/homebrew-cask || true
 brew tap homebrew/binary || true
 
 # minimal 
-brew install zsh
 brew install git
 brew install tmux reattach-to-user-namespace
 brew install w3m wget cmigemo binutils coreutils findutils lv ag z gnupg stunnel hub 
+brew install fish
 
 # development 
 brew install scons ntl
