@@ -1,12 +1,13 @@
 My installer of Homebrew packages
 =================================
 
-First, install Homebrew:
+First, install Homebrew
 
 ```
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-
+according to [brew.sh](https://brew.sh).
+ 
 And then,
 ```
 ./brew_install_my_packages.sh
