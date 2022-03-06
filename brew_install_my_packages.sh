@@ -7,10 +7,11 @@ brew tap homebrew/binary || true
 # minimal 
 brew install git
 brew install tmux reattach-to-user-namespace
-brew install w3m wget cmigemo binutils coreutils findutils lv ag z gnupg stunnel hub 
+brew install w3m wget cmigemo binutils coreutils findutils lv ag z gnupg stunnel ripgrep
 brew install fish
 
 # development 
+brew install hub gh
 brew install scons ntl
 brew install class-dump xz
 brew install ansible
