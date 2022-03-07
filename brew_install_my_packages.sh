@@ -17,6 +17,9 @@ brew install class-dump xz
 brew install ansible
 brew install cmake
 brew cask install extrabuildphase
+brew install sass/sass/sass
+
+brew install pinentry pinentry-mac
 
 # For Scala
 brew cask install java intellij-idea-ce
