@@ -11,6 +11,8 @@ brew install w3m wget cmigemo binutils coreutils findutils lv ag z gnupg stunnel
 brew install fish
 
 # development 
+brew install git-lfs
+brew install git-delta
 brew install hub gh
 brew install scons ntl
 brew install class-dump xz
