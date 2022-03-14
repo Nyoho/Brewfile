@@ -73,4 +73,5 @@ brew cask install keycastr
 brew tap jesseduffield/lazygit
 brew install lazygit
 
+brew install google-cloud-sdk
 brew cleanup
