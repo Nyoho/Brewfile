@@ -20,6 +20,7 @@ brew install ansible
 brew install cmake
 brew cask install extrabuildphase
 brew install sass/sass/sass
+brew install direnv
 
 brew install pinentry pinentry-mac
 
