@@ -18,7 +18,6 @@ brew install scons ntl
 brew install class-dump xz
 brew install ansible
 brew install cmake
-brew cask install extrabuildphase
 brew install direnv
 
 brew install pinentry pinentry-mac
